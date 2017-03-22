@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Hangman</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">D_MM_NT_NT</string>
+    <string name="nextWord">new word</string>
+    <string name="newGame">new game</string>
+    <string name="points">POINTS:\u0020</string>
+    <string name="dummy_number">0</string>
+    <string name="left">LIVES LEFT:\u0020</string>
+    <string name="spaceFiller">\u0020</string>
+    <string name="select">GUESS LETTER</string>
+</resources>
